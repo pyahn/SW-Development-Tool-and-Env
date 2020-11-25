@@ -5,5 +5,8 @@ public class Calc {
 	public int sub(int x, int y) {
 		return x-y;
 	}
+	public int inc(in d){
+		return n; //미완성
+	}
 }
 
