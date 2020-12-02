@@ -11,6 +11,6 @@ public class Calc {
 	}
 	public int getResult(){
 		return r;
-	}
+        }
 }
 
