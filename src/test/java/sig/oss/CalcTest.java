@@ -12,7 +12,7 @@ public class CalcTest {
 		Cale c = new Cale();
 		assertEquals(-10, c. sub(10, 20));
 	}
-	public void testMultipleInc(){//test
+	public void testMultipleInc(){
 		Calc c = new Calc();
 		c.inc(25);
 		c.inc(25);
