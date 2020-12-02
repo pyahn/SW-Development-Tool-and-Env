@@ -9,7 +9,7 @@ public class Calc {
 	public void inc(int d){ //
 		r += d;
 	}
-	public int getResult(){
+	public int getResult(){ //test
 		return r;
 	}
 }
